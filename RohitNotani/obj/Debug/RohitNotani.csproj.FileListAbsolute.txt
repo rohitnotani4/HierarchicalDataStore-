@@ -1,0 +1,10 @@
+C:\Users\rnotani\Desktop\MyProjects\RohitNotani\RohitNotani\bin\Debug\RohitNotani.exe.config
+C:\Users\rnotani\Desktop\MyProjects\RohitNotani\RohitNotani\bin\Debug\RohitNotani.exe
+C:\Users\rnotani\Desktop\MyProjects\RohitNotani\RohitNotani\bin\Debug\RohitNotani.pdb
+C:\Users\rnotani\Desktop\MyProjects\RohitNotani\RohitNotani\obj\Debug\RohitNotani.csprojAssemblyReference.cache
+C:\Users\rnotani\Desktop\MyProjects\RohitNotani\RohitNotani\obj\Debug\RohitNotani.csproj.CoreCompileInputs.cache
+C:\Users\rnotani\Desktop\MyProjects\RohitNotani\RohitNotani\obj\Debug\RohitNotani.exe
+C:\Users\rnotani\Desktop\MyProjects\RohitNotani\RohitNotani\obj\Debug\RohitNotani.pdb
+C:\Users\rnotani\Desktop\MyProjects\RohitNotani\RohitNotani\bin\Debug\CommandLine.xml
+C:\Users\rnotani\Desktop\MyProjects\RohitNotani\RohitNotani\bin\Debug\NLog.xml
+C:\Users\rnotani\Desktop\MyProjects\RohitNotani\RohitNotani\obj\Debug\RohitNotani.csproj.CopyComplete
